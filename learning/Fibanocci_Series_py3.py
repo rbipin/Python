@@ -1,5 +1,5 @@
 """
-Python 3 program to generate fibanocci series
+generate fibanocci series
 Author: Bipin Radhakrishnan
 """
 
